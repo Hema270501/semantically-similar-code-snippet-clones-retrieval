@@ -51,7 +51,7 @@ This project implements a Flask-based web application for retrieving semanticall
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yuvi-crypto/Semantically-similar-code-snippet-Clones-retrieval.git
+
    cd Semantically-similar-code-snippet-Clones-retrieval
    ```
 
@@ -94,4 +94,3 @@ Contributions to the project are welcome! Please refer to the following steps:
 5. Open a new Pull Request.
 
 
-For any queries, you can reach out to [yuvaraj.gajalajamgam@students.iiit.ac.in](mailto:yuvaraj.gajalajamgam@students.iiit.ac.in).
